@@ -1,2 +1,1 @@
-# .Net-Core-Path
-.Net-Core-Path (Patika.dev)
+# .Net Core Path ([Patika.dev](https://academy.patika.dev/))
