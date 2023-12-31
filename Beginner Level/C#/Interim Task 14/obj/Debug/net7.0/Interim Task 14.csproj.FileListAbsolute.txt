@@ -1,0 +1,14 @@
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Interim Task 14\bin\Debug\net7.0\Interim Task 14.exe
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Interim Task 14\bin\Debug\net7.0\Interim Task 14.deps.json
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Interim Task 14\bin\Debug\net7.0\Interim Task 14.runtimeconfig.json
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Interim Task 14\bin\Debug\net7.0\Interim Task 14.dll
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Interim Task 14\bin\Debug\net7.0\Interim Task 14.pdb
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Interim Task 14\obj\Debug\net7.0\Interim Task 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Interim Task 14\obj\Debug\net7.0\Interim Task 14.AssemblyInfoInputs.cache
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Interim Task 14\obj\Debug\net7.0\Interim Task 14.AssemblyInfo.cs
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Interim Task 14\obj\Debug\net7.0\Interim Task 14.csproj.CoreCompileInputs.cache
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Interim Task 14\obj\Debug\net7.0\Interim Task 14.dll
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Interim Task 14\obj\Debug\net7.0\refint\Interim Task 14.dll
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Interim Task 14\obj\Debug\net7.0\Interim Task 14.pdb
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Interim Task 14\obj\Debug\net7.0\Interim Task 14.genruntimeconfig.cache
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Interim Task 14\obj\Debug\net7.0\ref\Interim Task 14.dll
