@@ -1,0 +1,14 @@
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\First\bin\Debug\net7.0\First.exe
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\First\bin\Debug\net7.0\First.deps.json
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\First\bin\Debug\net7.0\First.runtimeconfig.json
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\First\bin\Debug\net7.0\First.dll
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\First\bin\Debug\net7.0\First.pdb
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\First\obj\Debug\net7.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\First\obj\Debug\net7.0\First.AssemblyInfoInputs.cache
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\First\obj\Debug\net7.0\First.AssemblyInfo.cs
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\First\obj\Debug\net7.0\First.csproj.CoreCompileInputs.cache
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\First\obj\Debug\net7.0\First.dll
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\First\obj\Debug\net7.0\refint\First.dll
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\First\obj\Debug\net7.0\First.pdb
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\First\obj\Debug\net7.0\First.genruntimeconfig.cache
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\First\obj\Debug\net7.0\ref\First.dll
