@@ -1,0 +1,14 @@
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Third\bin\Debug\net7.0\Third.exe
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Third\bin\Debug\net7.0\Third.deps.json
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Third\bin\Debug\net7.0\Third.runtimeconfig.json
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Third\bin\Debug\net7.0\Third.dll
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Third\bin\Debug\net7.0\Third.pdb
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Third\obj\Debug\net7.0\Third.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Third\obj\Debug\net7.0\Third.AssemblyInfoInputs.cache
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Third\obj\Debug\net7.0\Third.AssemblyInfo.cs
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Third\obj\Debug\net7.0\Third.csproj.CoreCompileInputs.cache
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Third\obj\Debug\net7.0\Third.dll
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Third\obj\Debug\net7.0\refint\Third.dll
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Third\obj\Debug\net7.0\Third.pdb
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Third\obj\Debug\net7.0\Third.genruntimeconfig.cache
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Third\obj\Debug\net7.0\ref\Third.dll
