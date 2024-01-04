@@ -1,0 +1,14 @@
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Second\bin\Debug\net7.0\Second.exe
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Second\bin\Debug\net7.0\Second.deps.json
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Second\bin\Debug\net7.0\Second.runtimeconfig.json
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Second\bin\Debug\net7.0\Second.dll
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Second\bin\Debug\net7.0\Second.pdb
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Second\obj\Debug\net7.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Second\obj\Debug\net7.0\Second.AssemblyInfoInputs.cache
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Second\obj\Debug\net7.0\Second.AssemblyInfo.cs
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Second\obj\Debug\net7.0\Second.csproj.CoreCompileInputs.cache
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Second\obj\Debug\net7.0\Second.dll
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Second\obj\Debug\net7.0\refint\Second.dll
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Second\obj\Debug\net7.0\Second.pdb
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Second\obj\Debug\net7.0\Second.genruntimeconfig.cache
+C:\Users\erkil\OneDrive\Masaüstü\Başlangıç Seviyesi .Net Core Patikası\.Net-Core-Path\Beginner Level\C#\Task 2\Second\obj\Debug\net7.0\ref\Second.dll
